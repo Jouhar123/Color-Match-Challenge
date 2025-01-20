@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Color-Match-Challenge/static/css/main.afc3592c.css",
+    "main.js": "/Color-Match-Challenge/static/js/main.d201a99f.js",
+    "index.html": "/Color-Match-Challenge/index.html",
+    "main.afc3592c.css.map": "/Color-Match-Challenge/static/css/main.afc3592c.css.map",
+    "main.d201a99f.js.map": "/Color-Match-Challenge/static/js/main.d201a99f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afc3592c.css",
+    "static/js/main.d201a99f.js"
+  ]
+}
